@@ -1,6 +1,6 @@
 /***************************************
 
-脚本功能：
+脚本功能：2
 
 在线观看地址:
 邀请码: 
@@ -19,7 +19,7 @@ TG频道群：https://t.me/WeiRenQAQ
 
 [rewrite_local]
 
-^http[s]?:\/\/hapi\.mting\.info\/yyting\/usercenter\/ThirdPartyLogin\.action.*$ url script-response-body https://raw.githubusercontent.com/wigiegie/123/main/lanr.js
+^http[s]?:\/\/hapi\.mting\.info\/yyting\/usercenter\/ThirdPartyLogin\.action.*$ url script-response-body https://raw.githubusercontent.com/wigiegie/test/main/lanr.js
 
 [mitm]
 
